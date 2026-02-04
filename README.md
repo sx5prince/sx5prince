@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=sx5prince&color=grey
+![Profile views](https://komarev.com/ghpvc/?username=sx5prince)
 ⌢⌢ 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Y2nx7M25/IMG-7293.jpg' border='0' alt='IMG-7293'></a>
 ## ♥︎ . 𝑺ℴcials:
