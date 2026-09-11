@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- Никнейм -->
-  <h1 style="font-family: 'Courier New', monospace; font-weight: 900; letter-spacing: 2px; color: #000000; margin-bottom: 5px;">sx5prince</h1>
+  <h1 style="font-family: 'Courier New', monospace; font-weight: 900; letter-spacing: 2px; color: #000000; margin-bottom: 5px;">очень необычно зайка</h1>
 
   <br>
 
