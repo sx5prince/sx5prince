@@ -1,36 +1,31 @@
 <div align="center">
-
-  <!-- 1. БАННЕР (ссылка взята с твоего скриншота) -->
-  <img src="https://i.postimg.cc/5yC5zczq/photo-4981510616065444935-y.jpg" alt="banner" width="100%"/>
-
+  <!-- Баннер -->
+  <img src="https://i.postimg.cc/Z5whgXpf/photo-4981510616065444935-y.jpg" alt="Banner" width="100%" style="max-width: 750px; border-radius: 12px; filter: grayscale(100%); border: 2px solid #000000;" />
+  
   <br><br>
 
-  <!-- 2. КНОПКИ -->
-  <a href="https://t.me/sx5kitty">
-    <img src="https://img.shields.io/badge/Telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=000000" alt="Telegram"/>
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@.040404040404">
-    <img src="https://img.shields.io/badge/TikTok-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000" alt="TikTok"/>
-  </a>
-
-  <br><br>
-
-  <!-- 3. ТВОЙ РАЗДЕЛИТЕЛЬ -->
-  <p>〜〜〜♡♡〜〜〜</p>
+  <!-- Никнейм -->
+  <h1 style="font-family: 'Courier New', monospace; font-weight: 900; letter-spacing: 2px; color: #000000; margin-bottom: 5px;">sx5prince</h1>
 
   <br>
 
-  <!-- 4. СЧЕТЧИК ПРОСМОТРОВ -->
-  <img src="https://komarev.com/ghpvc/?username=sx5prince&color=lightgrey&style=for-the-badge" alt="Profile Views" />
+  <!-- Кнопки соцсетей -->
+  <a href="https://t.me/sx5kitty" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-sx5kitty-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@.040404040404" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-.040404040404-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 
   <br><br>
 
-  <!-- 5. СТАТИСТИКА GITHUB -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sx5prince&show_icons=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=333333" alt="GitHub Stats" />
+  <!-- Счетчик просмотров -->
+  <img src="https://komarev.com/ghpvc/?username=sx5prince&color=000000&style=for-the-badge&label=VIEWS" alt="Views" />
+
+  <br><br>
   
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sx5prince&layout=compact&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&border_color=333333" alt="Top Langs" />
+  <!-- Декоративный разделитель -->
+  <hr style="border: 1px solid #000000; width: 60%;" />
 
 </div>
